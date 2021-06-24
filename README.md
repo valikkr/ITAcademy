@@ -48,3 +48,17 @@
 ![alt text](https://github.com/valikkr/ITAcademy/blob/main/task2/Screenshot%20at%20Jun%2023%2015-26-35.png "задание2")
 
 ![alt text](https://github.com/valikkr/ITAcademy/blob/main/task2/Screenshot%20at%20Jun%2023%2015-27-07.png "задание2")
+
+
+ТАСКА 3
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task3/Screenshot%20at%20Jun%2024%2015-20-18.png "задание3")
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task3/Screenshot%20at%20Jun%2024%2017-17-49.png "задание3")
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task3/Screenshot%20at%20Jun%2024%2022-26-25.png "задание3")
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task3/Screenshot%20at%20Jun%2024%2022-27-15.png "задание3")
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task3/Screenshot%20at%20Jun%2024%2022-28-07.png "задание3")
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task3/Screenshot%20at%20Jun%2024%2022-29-27.png "задание3")
