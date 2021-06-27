@@ -67,7 +67,7 @@ LINUX
 ![alt text](https://github.com/valikkr/ITAcademy/blob/main/task3/Screenshot%20at%20Jun%2024%2022-29-27.png "задание3")
 
 
-NETWORK
+LINUX NETWORKING
 ТАСКА 1
 
 ![alt text](https://github.com/valikkr/ITAcademy/blob/main/task4/powerongateway.png "задание2")
