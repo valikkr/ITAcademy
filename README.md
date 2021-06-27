@@ -1,4 +1,7 @@
 # ITAcademy
+
+LINUX 
+
 ТАСКА 1
 
 ![alt text](https://github.com/valikkr/ITAcademy/blob/main/task1/Screenshot%20at%20Jun%2023%2021-21-29.png "задание1")
@@ -62,3 +65,39 @@
 ![alt text](https://github.com/valikkr/ITAcademy/blob/main/task3/Screenshot%20at%20Jun%2024%2022-28-07.png "задание3")
 
 ![alt text](https://github.com/valikkr/ITAcademy/blob/main/task3/Screenshot%20at%20Jun%2024%2022-29-27.png "задание3")
+
+
+NETWORK
+ТАСКА 1
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task4/powerongateway.png "задание2")
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task4/poweroff.png "задание2")
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task4/network.png "задание2")
+
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task4/ssh%20tcpdump.png "задание2")
+
+
+ТАСКА 2
+
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task4/dhcp.png "задание2")
+
+
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task4/dns%20resolve.png "задание2")
+
+
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task4/tcpdump%20dns.png "задание2")
+
+
+
