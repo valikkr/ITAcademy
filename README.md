@@ -100,4 +100,39 @@ LINUX NETWORKING
 ![alt text](https://github.com/valikkr/ITAcademy/blob/main/task4/tcpdump%20dns.png "задание2")
 
 
+СКРИПТИНГ
+ТАСКА 1
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task5/script.png "задание2")
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task5/screept.png "задание2")
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task5/screepttext.png "задание2")
+
+ТАСКА 2
+
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task5/log.png "задание2")
+
+
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task5/page.png "задание2")
+
+
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task5/time.png "задание2")
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task5/bot.png "задание2")
+
+
+
+
+![alt text](https://github.com/valikkr/ITAcademy/blob/main/task5/bot1.png "задание2")
+
+
 
